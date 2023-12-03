@@ -1,6 +1,6 @@
 # Pizza Sales Analysis Project
 ## Overview
-Welcome to the Pizza Sales Analysis project repository! This comprehensive project combines the power of SQL data analysis with Tableau visualizations to provide a deep understanding of our pizza sales performance. From calculating key business metrics to creating insightful charts, this project aims to empower decision-making with data-driven insights.
+Welcome to the Pizza Sales Analysis project repository! This comprehensive project combines the power of SQL data analysis with Tableau visualizations to provide a deep understanding of our pizza sales performance. From calculating key business metrics to creating insightful charts, this project aims to empower decision-making with data-driven insights. Please find the Data Source I have used in this project.
 https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9
 
 ### Dasboard :-
