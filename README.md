@@ -14,9 +14,13 @@ The goal of this project is to analyze key indicators for pizza sales data to ga
 ### Key Metrics:
 
 **Total Revenue**: Sum of the total price of all pizza orders.
+
 **Average Order Value:** Average amount spent per order, calculated by dividing total revenue by total number of orders.
+
 **Total Pizzas Sold:** Sum of the quantities of all pizzas sold.
+
 **Total Orders:** Total number of orders placed.
+
 **Average Pizzas Per Order:** Average number of pizzas sold per order, calculated by dividing total number of pizzas sold by total number of orders.
 
 ## Visualization Requirements
